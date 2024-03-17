@@ -1,0 +1,22 @@
+{
+  "name": "teplepumamoderh",
+  "version": "1.0.0",
+  "description": "teplepumamoderh",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teplepumAmoderH/demcungem1.git"
+  },
+  "keywords": [
+    "cacl"
+  ],
+  "author": "teplepumamoderh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/teplepumAmoderH/demcungem1/issues"
+  },
+  "homepage": "https://github.com/teplepumAmoderH"
+}
